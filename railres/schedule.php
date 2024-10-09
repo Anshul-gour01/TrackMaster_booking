@@ -142,18 +142,8 @@ $result=mysql_query($sql);
 				</table>
 			</div>
 		</div>
-		<!-- Copyright -->
-		<!-- Footer -->
-		<footer >
-		<div style="width:100%;">
-			<div style="float:left;">
-			<p class="text-right text-info">  &copy; 2018 Copyright PVT Ltd.</p>	
-			</div>
-			<div style="float:right;">
-			<p class="text-right text-info">	Desinged By : projectworlds</p>
-			</div>
-		</div>
-		</footer>
+		
+		
 		</div>
 </body>
 </html>
